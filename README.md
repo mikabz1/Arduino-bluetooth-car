@@ -28,7 +28,7 @@ Programming the remote control and the car and in addition finding an applicatio
 
 -ultrasonic sensor.
 
--blutetooth module.
+-hc05 blutetooth module.
 
 -arduino uno.
 
@@ -47,10 +47,24 @@ Programming the remote control and the car and in addition finding an applicatio
 
 -arduino uno.
 
--bluetooth module.
+-hc05 bluetooth module.
 
 # Libraries:
 servo - https://github.com/arduino-libraries
+
+hc05 comunication - 'SoftwareSerial.h'.
+
+motor action - https://github.com/AndreaLombardo/L298N
+
+remote screen - https://github.com/arduino-libraries/TFT/tree/master
+
+# phone app:
+Regarding the application - there are many free applications that facilitate connection with the Bluetooth module and communication with it.
+
+# challenges:
+This is one of the first projects I started soldering on, so it was one of the challenges.
+Another challenge was the initialization and configuration of the Bluetooth modules and creating the communication between them.
+In addition, putting the values ​​of the car and the various modes into the screen of the remote was quite a communication challenge.
 
 # Galry:
 ![image](https://github.com/user-attachments/assets/28a77629-ea2a-4390-9fa6-aa623149f168)
