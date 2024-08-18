@@ -1,6 +1,8 @@
 # Summary:
 This project is an educational experimental project and not a final project.
+
 This project produces knowledge and abilities in the following subjects:
+
 *-Planning a project on a new and unfamiliar topic.*
 
 *-Understanding electric circuits.*
@@ -20,6 +22,7 @@ Programming the remote control and the car and in addition finding an applicatio
 
 # The car:
 **component:**
+
 -2 dc motors.
 
 -motor driver.
