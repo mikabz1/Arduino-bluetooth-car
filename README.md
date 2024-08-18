@@ -73,6 +73,8 @@ In addition, putting the values ​​of the car and the various modes into the 
 ![image](https://github.com/user-attachments/assets/a2cfed91-c228-46cf-8284-4d40be0398d5)
 ![image](https://github.com/user-attachments/assets/fc47fa1d-ac68-41d1-abfe-caee71fddb37)
 ![image](https://github.com/user-attachments/assets/9b6ba4af-a375-465d-9a77-be96b87cebea)
+![image](https://github.com/user-attachments/assets/12606206-81fa-4808-9f0d-48f27be2093d)
+
 
 
 
